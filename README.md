@@ -8,7 +8,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jtorp&show_icons=true&&custom_title=Stats&theme=merko&include_all_commits=true&layout=compact&hide=issues&hide_border=true&border_radius=4"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtorp&layout=compact)](https://github.com/jtorp/github-readme-stats"/>
 </div>
  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jtorp&show_icons=true&theme=synthwave"/>
