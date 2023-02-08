@@ -44,7 +44,7 @@
   </div> 
   
 
-🦡 ** My GitHub Data** 
+🦡 **My GitHub Data** 
 
 > 🏆 25 Contributions in the Year 2023
  > 
@@ -60,7 +60,7 @@
   
     
     
-**I'm a Night 🦉** 🧟‍♀️
+🧟‍♀️ **I'm a Night 🦉**
 
 ```text
 🌞 Morning        9 commits       ████████░░░░░░░░░░░░░░░░░   32.14 % 
@@ -120,10 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/jtorp/jtorp/main/charts/bar_graph.png) 
-
+<!--**Timeline**
+ ![Chart not found](https://raw.githubusercontent.com/jtorp/jtorp/main/charts/bar_graph.png) 
+ -->
 
  Last Updated on 08/02/2023 23:31:11 UTC
 <!--END_SECTION:waka-->
