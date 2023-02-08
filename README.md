@@ -32,12 +32,18 @@
 
 ##
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtorp&layout=compacte&theme=synthwave)](https://github.com/jtorp/github-readme-stats"/>
-</div>
- <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
+ <!--START_SECTION:waka-->
+<div align="right">
+
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-green)
+
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-40-cyan)
+
+</div>
+
+
 
 **🐱 My GitHub Data** 
 
