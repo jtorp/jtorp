@@ -36,4 +36,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtorp&layout=compacte&theme=synthwave)](https://github.com/jtorp/github-readme-stats"/>
 </div>
- 
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
