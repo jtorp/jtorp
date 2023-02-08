@@ -42,8 +42,9 @@
   ![Profile Views](http://img.shields.io/badge/Profile%20Views-105-lime)
     
   </div> 
+  
 
-**🐱 My GitHub Data** 
+🦡 ** My GitHub Data** 
 
 > 🏆 25 Contributions in the Year 2023
  > 
@@ -55,7 +56,11 @@
  > 
 > 🔑 3 Private Repositories  
  > 
-**I'm a Night 🦉** 
+    
+  
+    
+    
+**I'm a Night 🦉** 🧟‍♀️
 
 ```text
 🌞 Morning        9 commits       ████████░░░░░░░░░░░░░░░░░   32.14 % 
@@ -64,7 +69,7 @@
 🌙 Night          3 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
 
 ```
-📅 **I'm Most Productive on Tuesday** 
+🖥️ **I'm Most Productive on Tuesday** 
 
 ```text
 Monday           0 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -103,7 +108,7 @@ Mac                      9 hrs 36 mins       ███████████�
 
 ```
 
-**I Mostly Code in JavaScript** 
+☕ **I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               9 repos             ███████████████░░░░░░░░░░   60.00 % 
