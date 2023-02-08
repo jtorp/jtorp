@@ -9,7 +9,7 @@
 ```js
   const jtorp = {
     education: "Masters",
-    otherAlias: ["software developer", "java developer", "dev", "mama"],
+    otherAlias: ["Software developer", "Java developer", "Dev", "Mama"],
     codesIn: ["Java", "JavaScript", "CSS", "HTML", "Bash"],
     databases: ["Oracle", "MySQL", "Mongo"],
     currentlylearning: ["Three.js", "Typescript"],
@@ -21,12 +21,11 @@
         },
         {
             post: "Software Developer",
-            industry: "Banking & Financer"
+            industry: "Banking & Finance"
         }
     ],
-    funFact: "Recently ventured into into the realm of front-end",
-    hobbies: ["Tote design", "Bug bounty"],
-    availableForHire: true
+    funFact: "Recently ventured into the realm of front-end",
+    hobbies: ["Tote design", "Bug bounty", "Drinking coffee"],
 }
 ```
 
