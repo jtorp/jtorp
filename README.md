@@ -33,20 +33,15 @@
 
 
  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-491%20hrs%2032%20mins-blue)
 
-  <div align="right"> 
-    
-  ![Code Time](http://img.shields.io/badge/Code%20Time-487%20hrs%2054%20mins-cyan)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-127-blue)
 
-    
-  ![Profile Views](http://img.shields.io/badge/Profile%20Views-105-lime)
-    
-  </div> 
-  
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27%20Thousand%20lines%20of%20code-blue)
 
-🦡 **My GitHub Data** 
+**🐱 My GitHub Data** 
 
-> 🏆 25 Contributions in the Year 2023
+> 🏆 28 Contributions in the Year 2023
  > 
 > 📦 5.6 kB Used in GitHub's Storage 
  > 
@@ -56,29 +51,25 @@
  > 
 > 🔑 3 Private Repositories  
  > 
-    
-  
-    
-    
-🧟‍♀️ **I'm a Night 🦉**
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning        9 commits       ████████░░░░░░░░░░░░░░░░░   32.14 % 
-🌆 Daytime        1 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-🌃 Evening       15 commits       █████████████░░░░░░░░░░░░   53.57 % 
-🌙 Night          3 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+🌞 Morning        9 commits       ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+🌆 Daytime        1 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+🌃 Evening       15 commits       ████████████░░░░░░░░░░░░░   48.39 % 
+🌙 Night          6 commits       ████░░░░░░░░░░░░░░░░░░░░░   19.35 % 
 
 ```
-🖥️ **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday           0 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday          9 commits       ████████░░░░░░░░░░░░░░░░░   32.14 % 
-Wednesday        7 commits       ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Thursday         5 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Friday           3 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Tuesday          9 commits       ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+Wednesday        7 commits       █████░░░░░░░░░░░░░░░░░░░░   22.58 % 
+Thursday         8 commits       ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+Friday           3 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
 Saturday         0 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday           4 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Sunday           4 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
 
 ```
 
@@ -108,7 +99,7 @@ Mac                      9 hrs 36 mins       ███████████�
 
 ```
 
-☕ **I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               9 repos             ███████████████░░░░░░░░░░   60.00 % 
@@ -120,10 +111,10 @@ Python                   1 repo              █░░░░░░░░░░�
 ```
 
 
+**Timeline**
 
-<!--**Timeline**
- ![Chart not found](https://raw.githubusercontent.com/jtorp/jtorp/main/charts/bar_graph.png) 
- -->
+![Chart not found](https://raw.githubusercontent.com/jtorp/jtorp/main/charts/bar_graph.png) 
 
- Last Updated on 08/02/2023 23:31:11 UTC
+
+ Last Updated on 09/02/2023 18:40:23 UTC
 <!--END_SECTION:waka-->
