@@ -33,17 +33,17 @@
 
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-533%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-541%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-145-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-141-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-88%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-95%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 64 Contributions in the Year 2023
  > 
-> 📦 8.4 kB Used in GitHub's Storage 
+> 📦 8.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,17 +68,17 @@
 ⌚︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-JavaScript               32 hrs 44 mins      ██████████████████████░░░   90.52 % 
-JSON                     1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-CSS                      42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-HTML                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-SQL                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+JavaScript               37 hrs 23 mins      ██████████████████████░░░   90.28 % 
+JSON                     1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+SQL                      45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+CSS                      42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Bash                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 🔥 Editors: 
-VS Code                  36 hrs 9 mins       █████████████████████████   100.00 % 
+VS Code                  41 hrs 25 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      36 hrs 9 mins       █████████████████████████   100.00 % 
+Mac                      41 hrs 25 mins      █████████████████████████   100.00 % 
 
 ```
 
@@ -98,5 +98,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jtorp/jtorp/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/02/2023 18:35:54 UTC
+ Last Updated on 20/02/2023 18:37:32 UTC
 <!--END_SECTION:waka-->
