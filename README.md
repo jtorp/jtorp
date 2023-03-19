@@ -33,15 +33,15 @@
 
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-609%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-613%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-135.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 14.5 kB Used in GitHub's Storage 
+> 📦 14.4 kB Used in GitHub's Storage 
  > 
 > 🏆 118 Contributions in the Year 2023
  > 
@@ -78,17 +78,17 @@ Sunday                   7 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-JavaScript               19 hrs 21 mins      ███████████████████████░░   92.94 % 
-Markdown                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+JavaScript               20 hrs 45 mins      ███████████████████████░░   92.11 % 
+Markdown                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 49 mins      █████████████████████████   100.00 % 
+VS Code                  22 hrs 32 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      20 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -107,5 +107,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jtorp/jtorp/main/assets/bar_graph.png)
 
 
- Last Updated on 18/03/2023 18:34:06 UTC
+ Last Updated on 19/03/2023 18:34:26 UTC
 <!--END_SECTION:waka-->
