@@ -33,9 +33,9 @@
 
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-616%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-617%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-135.0%20thousand%20lines%20of%20code-blue)
 
@@ -78,17 +78,17 @@ Sunday                   7 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-JavaScript               21 hrs 46 mins      ███████████████████████░░   92.45 % 
-Markdown                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+JavaScript               22 hrs 33 mins      ████████████████████████░   94.25 % 
+Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 33 mins      █████████████████████████   100.00 % 
+VS Code                  23 hrs 56 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      23 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -107,5 +107,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jtorp/jtorp/main/assets/bar_graph.png)
 
 
- Last Updated on 20/03/2023 18:37:28 UTC
+ Last Updated on 21/03/2023 18:34:46 UTC
 <!--END_SECTION:waka-->
