@@ -33,7 +33,7 @@
 
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-660%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-668%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -78,14 +78,14 @@ Sunday                   7 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-JavaScript               14 hrs 6 mins       █████████████████████████   98.41 % 
-CSS                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+JavaScript               19 hrs 2 mins       ████████████████████████░   97.60 % 
+CSS                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 20 mins      █████████████████████████   100.00 % 
+VS Code                  19 hrs 30 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      14 hrs 20 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -104,5 +104,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jtorp/jtorp/main/assets/bar_graph.png)
 
 
- Last Updated on 13/04/2023 18:32:59 UTC
+ Last Updated on 14/04/2023 18:32:41 UTC
 <!--END_SECTION:waka-->
