@@ -1,7 +1,4 @@
-<p> 
-  <img align="right" 
-       src="https://media2.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.webp?cid=ecf05e47a4ikrxauquru0phzjxe4e6rygk4czor1asyzea80&rid=giphy.webp&ct=s" height="150" > 
-  </p>
+
 <div align="left">
   
 ## 
