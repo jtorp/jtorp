@@ -14,6 +14,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: jtorp/jtorp@latest
+      - uses: jtorp/jtorp
         with:
           token: ${{ secrets.METRICS }}
