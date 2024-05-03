@@ -70,7 +70,10 @@
 ## Metrics
 
 
-<img width='100%' align='left' alt="Metrics-Github" src="/github-metrics.svg"/> 
+<picture>
+ <img alt="Metrics-Github" src="/github-metrics.svg" width="100%"> 
+</picture>
+
 
 
 |                 *Stats*                        |           *Habits*                                       |
