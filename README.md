@@ -1,4 +1,5 @@
-<img src="https://julialab.s3.eu-north-1.amazonaws.com/readmeCover.png" alt="profilecover">
+<img src="https://julialab.s3.eu-north-1.amazonaws.com/ReadmeCover_1.png" alt="profilecover">
+
 
 
 <div align="left">
