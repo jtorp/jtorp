@@ -63,7 +63,7 @@
 [![Vim Badge](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white)](https://www.vim.org/)
 
 ## 
-<img src="/github-metrics.svg" alt="Metrics" width="80%">
+<img src="/github-metrics.svg" alt="Metrics" width="60%">
 
 ##
  <!--START_SECTION:waka-->
