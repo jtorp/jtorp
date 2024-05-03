@@ -75,4 +75,6 @@
 <img align="right" width="50%" alt="Metrics-Calendar" src="/metrics.plugin.isocalendar.svg">
 
 <img align="left" width="50%" alt="Metrics-Habits" src="/metrics.plugin.habits.facts.svg"/>
+<img align="left" width="45%" alt="Metrics-Leetcode" src="/metrics.plugin.leetcode.svg">
+
 
