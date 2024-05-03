@@ -14,7 +14,14 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: jtorp/metrics@latest
+      - name: General
+        uses: jtorp/metrics@latest
         with:
           token: ${{ secrets.METRICS }}
-          
+          base: ""
+          name: Half-year calendar
+          filename: metrics.plugin.isocalendar.svg
+          plugin_isocalendar: yes
+
+  
+
