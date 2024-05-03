@@ -71,10 +71,10 @@
 
 
 
- 
 
 
 | Github Info                                         |  Stats                                                |
 |--------------------------------------------------------|-------------------------------------------------------------|
 | <img height='100%' align='left' alt="Metrics-Github" src="/github-metrics.svg"/> | <img alt="Metrics-Calendar" src="/metrics.plugin.isocalendar.svg">
-<img  align='left' alt="Metrics-Habits" src="/metrics.plugin.habits.charts.svg"/> |  <img  align='left' alt="Metrics-Habits" src="/metrics.plugin.habits.facts.svg"/> 
+<img  align='left' alt="Metrics-Habits" src="/metrics.plugin.habits.charts.svg"/> |  <img  align='left' alt="Metrics-Habits" src="/metrics.plugin.habits.facts.svg"/>  <img align='left' alt='Metrics-Lines' src='/metrics.plugin.lines.history.svg' />
+
