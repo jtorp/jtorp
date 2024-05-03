@@ -31,7 +31,7 @@ jobs:
           plugin_lines: yes
           plugin_lines_delay: 30
 
-      # Adding Half-year calendar
+      
       - name: Half-year calendar
         uses: lowlighter/metrics@latest
         with:
@@ -47,6 +47,7 @@ jobs:
           base: ""
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
+          
       - name: Mildly interesting facts
         uses: lowlighter/metrics@latest
         with:
@@ -56,6 +57,7 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
+          
       - name: Recent activity charts
         uses: lowlighter/metrics@latest
         with:
@@ -67,4 +69,20 @@ jobs:
           plugin_habits_charts: yes
           config_timezone: Europe/Copenhagen
           
+      - name: Repositories and diff history
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.lines.history.svg
+          token: ${{ secrets.METRICS }}
+          base: ""
+          plugin_lines: yes
+          plugin_lines_delay: 30
+          plugin_lines_sections: repositories, history
+          plugin_lines_repositories_limit: 2
+          plugin_lines_history_limit: 1
+          repositories_skipped: |
+            @use.patterns
+              */*
+              +lowlighter/metrics
+                  
 
