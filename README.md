@@ -71,7 +71,7 @@
 
 
 <picture>
- <img alt="Metrics-Github" src="/github-metrics.svg" width="52%"> 
+ <img alt="Metrics-Github" src="/github-metrics.svg" width="58%"> 
 </picture>
 
 
