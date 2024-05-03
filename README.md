@@ -70,11 +70,9 @@
 [![Vim Badge](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white)](https://www.vim.org/)
 
 ## 
-<img align="left" width="42%"  src="/github-metrics.svg" alt="Metrics">
+<img align="left" width="42%" alt="Metrics-Github"  src="/github-metrics.svg"/>
 
 <img align="right" width="50%" alt="Metrics-Calendar" src="/metrics.plugin.isocalendar.svg">
 
-<img align="left" width="50%" alt="Metrics-Leetcode" src="/metrics.plugin.leetcode.svg">
-
-
+<img align="left" width="50%" alt="Metrics-Habits" src="/metrics.plugin.habits.facts.svg"/>
 
