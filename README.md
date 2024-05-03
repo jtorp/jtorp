@@ -62,11 +62,13 @@
 [![Eclipse Badge](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white)](https://www.eclipse.org/)
 [![Vim Badge](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white)](https://www.vim.org/)
 
+## 
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
-<div align="left">
-  
+##
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-712%20hrs%2018%20mins-6200EE)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-135.0%20thousand%20lines%20of%20code-6200EE)
-</div>
 <!--END_SECTION:waka-->
