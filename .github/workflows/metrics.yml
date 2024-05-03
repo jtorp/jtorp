@@ -18,7 +18,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS }}
           config_display: regular
-          base: header
+          base: header, repositories
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_languages_details: lines, bytes-size, percentage
