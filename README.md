@@ -1,6 +1,25 @@
 <img src="https://julialab.s3.eu-north-1.amazonaws.com/ReadmeCover_1.png" alt="profilecover">
 
 
+## Tools of Trade
+
+![Firebase](https://img.shields.io/badge/Firebase-292529?style=flat-square&logo=firebase)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-292529?style=flat-square&logo=amazon-aws)
+![Java](https://img.shields.io/badge/Java-292529?style=flat-square&logo=Java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-292529?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-292529?style=flat-square&logo=Node.js)
+![Postman](https://img.shields.io/badge/Postman-292529?style=flat-square&logo=postman)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-292529?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-292529?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-292529?style=flat-square&logo=bootstrap)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![GraphQL](https://img.shields.io/badge/-GraphQL-292529?style=flat-square&logo=graphql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![MaterialUI](https://img.shields.io/badge/-MatrialUI-292529?style=flat-square&logo=material-UI)
+[![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind_CSS-202529?style=flat-square&logo=tailwind-css&logoColor=38B2AC)](https://tailwindcss.com/)
+
 
 <div align="left">
   
