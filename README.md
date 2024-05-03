@@ -1,34 +1,8 @@
+<img src="https://julialab.s3.eu-north-1.amazonaws.com/readmeCover.png" alt="profilecover">
+
 
 <div align="left">
   
-## 
-  
-```js
-  const jtorp = {
-    education: "Masters",
-    otherAlias: ["Software developer", "Java developer", "Dev", "Mama"],
-    codesIn: ["Java", "JavaScript", "CSS", "HTML", "Bash"],
-    databases: ["Oracle", "MySQL", "Mongo"],
-    currentlylearning: ["Three.js", "Typescript"],
-    tooling: ["Burp", "Selenium", "FitNesse", "Wireshark", "PS6", "Xd", "Figma"],
-    experiences: [
-        {
-            post: "IT consultant",
-            industry: "Fintech",
-        },
-        {
-            post: "Software Developer",
-            industry: "Banking & Finance"
-        }
-    ],
-    funFact: "Recently ventured into the realm of front-end",
-    hobbies: ["Tote design", "Bug bounty", "Drinking coffee"],
-}
-```
-
-##
-
-
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-712%20hrs%2018%20mins-blue)
 
