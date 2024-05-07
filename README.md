@@ -54,6 +54,9 @@
 [![WordPress Badge](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://wordpress.org/)
 [![Contentful Badge](https://img.shields.io/badge/-Contentful-FF3E00?style=flat-square&logo=contentful&logoColor=white)](https://www.contentful.com/)
 
+[![Burp Suite Badge](https://img.shields.io/badge/-Burp_Suite-FF6347?style=flat-square&logo=burp-suite&logoColor=white)](https://portswigger.net/burp)
+[![OWASP ZAP Badge](https://img.shields.io/badge/-OWASP_ZAP-3399FF?style=flat-square&logo=owasp-zap&logoColor=white)](https://www.zaproxy.org/)
+
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 [![Jira Badge](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira-software&logoColor=white)](https://www.atlassian.com/software/jira)
 [![SVN Badge](https://img.shields.io/badge/-SVN-809CC9?style=flat-square&logo=subversion&logoColor=white)](https://subversion.apache.org/)
