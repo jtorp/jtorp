@@ -1,9 +1,7 @@
-<img src="https://julialab.s3.eu-north-1.amazonaws.com/ReadmeCover_1.png" alt="profilecover">
 
- <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-712%20hrs%2018%20mins-7A5EF4)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-135.0%20thousand%20lines%20of%20code-548EFB)
-<!--END_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-712%20hrs%2018%20mins-7A5EF4) ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-135.0%20thousand%20lines%20of%20code-548EFB) <!--END_SECTION:waka--> 
+<img src="https://julialab.s3.eu-north-1.amazonaws.com/public/github%5B2%5D/giphy.gif" alt="profilecover" aria-label="Dancing with a disco ballhead gif" height=110> 
+
 
 ## Tools of Trade
 
