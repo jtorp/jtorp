@@ -33,7 +33,8 @@ Feel free to reach out:
 ![Metrics Calendar](/metrics.plugin.isocalendar.svg "Metrics Calendar") | ![Metrics Habits](/metrics.plugin.habits.charts.svg "Metrics Habits") 
 
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
