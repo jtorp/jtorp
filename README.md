@@ -32,9 +32,7 @@ Feel free to reach out:
 
 ![Metrics Calendar](/metrics.plugin.isocalendar.svg "Metrics Calendar") | ![Metrics Habits](/metrics.plugin.habits.charts.svg "Metrics Habits") 
 
-![Code Time](http://img.shields.io/badge/Code%20Time-712%20hrs%2018%20mins-3383de?style=for-the-badge)  
-![Lines of Code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-135.0%20thousand%20lines%20of%20code-3383de?style=for-the-badge)  
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-3383de?style=for-the-badge)
+
 
 
 
