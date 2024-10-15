@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Julia
 - I’m currently working in 🏦 on 💻💹.
-- I’m currently learning about large-scale system design & 🏛️.
+- I’m currently learning System Design and 🏛️.
 - Ask me about AWS Serverless, 🔌 API Design.
   
 
