@@ -65,13 +65,14 @@ Sunday                   19 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSV                      5 mins              █████████████░░░░░░░░░░░░   50.78 % 
+JSON                     5 mins              ████████████░░░░░░░░░░░░░   49.22 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +88,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/03/2025 18:43:07 UTC
+ Last Updated on 22/03/2025 18:40:00 UTC
 <!--END_SECTION:waka-->
 
 
