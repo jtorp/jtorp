@@ -35,7 +35,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-899%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-899%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -66,13 +66,13 @@ Sunday                   19 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 24 mins       █████████████████████████   100.00 % 
+Python                   2 hrs 5 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 24 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 5 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 24 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -88,7 +88,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/04/2026 19:12:41 UTC
+ Last Updated on 19/04/2026 19:12:38 UTC
 <!--END_SECTION:waka-->
 
 
