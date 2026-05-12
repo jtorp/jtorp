@@ -1,16 +1,15 @@
 ## Hi 👋, I'm Julia
-- I’m currently grinding in 🏦 building platforms that move money.
-- Learning: orchestration of agents, their vulnerabilities, and dealing with the security debt that bites 🍑
+- I’m currently building platforms that move money.
+- Learning: orchestration of agents, their vulnerabilities, and dealing with the security debt.
 
 ### Ask me about:
-- AWS Serverless 🔥
-- API Design & IaC ⚡
-- Blowing up infra on purpose (I mean, huge, resilient infra with all the -ilities)
+- AWS Serverless 
+- API Design & IaC 
 - Reverse engineering & poking at systems
   
 
 
-### 🧰 Tech & Tools
+### Tech & Tools
 ![Java](https://img.shields.io/badge/-Java-D50032?style=for-the-badge&logo=java&logoColor=white)
 [![SQL Badge](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
