@@ -67,13 +67,17 @@ Sunday                   7 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 2 mins        █████████████████████░░░░   84.26 % 
+Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+TOML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 25 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -95,7 +99,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 21:00:29 UTC
+ Last Updated on 11/09/2026 21:05:20 UTC
 <!--END_SECTION:waka-->
 
 
