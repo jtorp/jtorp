@@ -34,7 +34,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-909%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-911%20hrs%2026%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20mins-blue?style=flat)
 
@@ -67,15 +67,15 @@ Sunday                   7 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   32 mins             ██████████████░░░░░░░░░░░   56.10 % 
-TeX                      22 mins             ██████████░░░░░░░░░░░░░░░   38.45 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Python                   1 hr 59 mins        ████████████████████░░░░░   81.93 % 
+TeX                      22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 🔥 Editors: 
-VS Code                  58 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      58 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -97,7 +97,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 00:52:14 UTC
+ Last Updated on 13/10/2026 22:57:24 UTC
 <!--END_SECTION:waka-->
 
 
