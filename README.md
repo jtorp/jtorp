@@ -67,18 +67,18 @@ Sunday                   7 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-tmux                     2 hrs 1 min         ████████████░░░░░░░░░░░░░   49.62 % 
-Python                   1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   27.92 % 
-Docker                   38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+tmux                     2 hrs 1 min         █████████░░░░░░░░░░░░░░░░   36.50 % 
+Python                   1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   28.65 % 
+Docker                   1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
+Text                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 33 mins       ██████████████████████░░░   86.75 % 
-Neovim                   32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+VS Code                  5 hrs 1 min         ███████████████████████░░   90.25 % 
+Neovim                   32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
 
 💻 Operating System: 
-Mac                      4 hrs 5 mins        █████████████████████████   100.00 % 
+Mac                      5 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -100,7 +100,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 22:47:38 UTC
+ Last Updated on 27/10/2026 22:27:01 UTC
 <!--END_SECTION:waka-->
 
 
