@@ -34,7 +34,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-917%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-918%20hrs-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20mins-blue?style=flat)
 
@@ -67,18 +67,18 @@ Sunday                   7 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Docker                   2 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   32.57 % 
-tmux                     2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   31.66 % 
-Python                   1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
-Text                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Docker                   2 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.15 % 
+tmux                     2 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   28.28 % 
+Python                   1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+Bash                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 52 mins       ███████████████████████░░   91.54 % 
-Neovim                   32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+VS Code                  6 hrs 6 mins        █████████████████████░░░░   84.95 % 
+Neovim                   1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
 
 💻 Operating System: 
-Mac                      6 hrs 25 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -100,7 +100,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 22:43:36 UTC
+ Last Updated on 29/10/2026 22:52:57 UTC
 <!--END_SECTION:waka-->
 
 
